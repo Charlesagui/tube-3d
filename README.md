@@ -19,3 +19,5 @@ https://github.com/user-attachments/assets/b301afa9-ba25-4f46-a12b-41b5152075af
 - **HTML:** La estructura principal del proyecto.
 - **CSS:** Archivo para los estilos y las animaciones (`animaciones.css`).
 - **Fuentes:** Utiliza la fuente `Roboto` desde Google Fonts.
+
+Claude estuvo aquí.
