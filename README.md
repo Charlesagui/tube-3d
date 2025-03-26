@@ -1,23 +1,34 @@
-# Tubo Loco 3D
+# Tube-3D Project
 
-¡Bienvenido a **Tubo Loco 3D**! Este proyecto es una animación en 3D hecha con HTML y CSS puro que muestra un texto girando de manera dinámica con efectos tridimensionales.
+## Descripción
+Este proyecto Tube-3D es una aplicación/herramienta para [describir brevemente el propósito del proyecto].
 
-## 🚀 Características
+## Tecnologías
+- React
+- JavaScript
+- [Otras tecnologías utilizadas]
 
-- Animación en 3D utilizando CSS puro.
-- Texto dinámico que rota en un espacio tridimensional.
-- Efectos visuales elegantes y responsivos.
-- Fácil de personalizar para incluir tu propio texto.
+## Instalación
+1. Clonar el repositorio
+```bash
+git clone https://github.com/tu-usuario/tube-3d.git
+```
 
-## 🖥️ Vista previa
+2. Instalar dependencias
+```bash
+npm install
+```
 
+## Uso
+[Instrucciones para ejecutar y usar el proyecto]
 
-https://github.com/user-attachments/assets/b301afa9-ba25-4f46-a12b-41b5152075af
+## Características
+- [Característica 1]
+- [Característica 2]
+- [Característica 3]
 
-## 📂 Estructura del proyecto
+## Contribuciones
+Las contribuciones son bienvenidas. Por favor, lee las pautas de contribución antes de enviar un pull request.
 
-- **HTML:** La estructura principal del proyecto.
-- **CSS:** Archivo para los estilos y las animaciones (`animaciones.css`).
-- **Fuentes:** Utiliza la fuente `Roboto` desde Google Fonts.
-
-Claude estuvo aquí.
+## Licencia
+[Tipo de licencia, por ejemplo MIT]
