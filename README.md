@@ -1,34 +1,42 @@
-# Tube-3D Project
+# Tube-3D
 
 ## Descripción
-Este proyecto Tube-3D es una aplicación/herramienta para [describir brevemente el propósito del proyecto].
+Tube-3D es un proyecto web que crea un efecto visual 3D de texto girando en un tubo. Utiliza HTML, CSS y animaciones avanzadas para crear una experiencia visual inmersiva con texto que rota en un espacio tridimensional.
 
 ## Tecnologías
-- React
-- JavaScript
-- [Otras tecnologías utilizadas]
-
-## Instalación
-1. Clonar el repositorio
-```bash
-git clone https://github.com/tu-usuario/tube-3d.git
-```
-
-2. Instalar dependencias
-```bash
-npm install
-```
-
-## Uso
-[Instrucciones para ejecutar y usar el proyecto]
+- HTML5
+- CSS3 (con características modernas como variables CSS y animaciones)
+- Google Fonts (Roboto)
 
 ## Características
-- [Característica 1]
-- [Característica 2]
-- [Característica 3]
+- Efecto visual 3D de texto girando en forma de tubo
+- Animaciones fluidas con rotación en múltiples ejes
+- Colores dinámicos para cada texto basados en variables CSS
+- Diseño responsive que se adapta a diferentes tamaños de pantalla
+- Efectos de perspectiva 3D y preservación de transformaciones
 
-## Contribuciones
-Las contribuciones son bienvenidas. Por favor, lee las pautas de contribución antes de enviar un pull request.
+## Estructura del Proyecto
+- `tuboLoco.html` - Archivo HTML principal con la estructura del tubo 3D
+- `animaciones.css` - Estilos y animaciones para el efecto 3D
+- `src/index.css` - Archivo CSS base adicional
+
+## Uso
+1. Clona el repositorio:
+```bash
+git clone https://github.com/Charlesagui/tube-3d.git
+```
+
+2. Abre el archivo `tuboLoco.html` en tu navegador web para ver el efecto 3D.
+
+## Personalización
+Puedes personalizar el efecto modificando:
+- El texto dentro de los elementos `<span>` en el HTML
+- Los colores en el archivo CSS (función `hsl` en la clase `.text`)
+- La velocidad de las animaciones (valores en segundos en las animaciones)
+- El tamaño y la perspectiva (variables en el CSS)
 
 ## Licencia
-[Tipo de licencia, por ejemplo MIT]
+MIT
+
+## Autor
+Charles Aguilar
